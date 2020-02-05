@@ -11,3 +11,14 @@ Test64x64_240dp                  |  96 x  96 |  64 x  64 |   1.5 |
 Test64x64_320dp                  | 128 x 128 |  64 x  64 |   2.0 |
 Test64x64_480dp                  | 192 x 192 |  64 x  64 |   3.0 |
 Test64x64_640dp                  | 256 x 256 |  64 x  64 |   4.0 |
+
+
+![alt text](./Test64x64_160dp.png "Test64x64_160dp")
+
+![alt text](./Test64x64_240dp.png "Test64x64_240dp")
+
+![alt text](./Test64x64_320dp.png "Test64x64_320dp")
+
+![alt text](./Test64x64_480dp.png "Test64x64_480dp")
+
+![alt text](./Test64x64_640dp.png "Test64x64_640dp")

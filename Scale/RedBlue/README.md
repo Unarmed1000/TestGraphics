@@ -41,3 +41,15 @@ TestSmall_240dp                  |  64 x  64 |  48 x  48 |   1.5 |
 TestSmall_320dp                  |  64 x  64 |  32 x  32 |   2.0 |
 TestSmall_480dp                  |  64 x  64 |  24 x  24 |   3.0 |
 TestSmall_640dp                  |  64 x  64 |  16 x  16 |   4.0 |
+
+
+![alt text](./Test64x64_160dp.png "Test64x64_160dp")
+
+![alt text](./Test64x64_240dp.png "Test64x64_240dp")
+
+![alt text](./Test64x64_320dp.png "Test64x64_320dp")
+
+![alt text](./Test64x64_480dp.png "Test64x64_480dp")
+
+![alt text](./Test64x64_640dp.png "Test64x64_640dp")
+
