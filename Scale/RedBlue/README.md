@@ -41,6 +41,11 @@ TestSmall_240dp                  |  64 x  64 |  48 x  48 |   1.5 |
 TestSmall_320dp                  |  64 x  64 |  32 x  32 |   2.0 |
 TestSmall_480dp                  |  64 x  64 |  24 x  24 |   3.0 |
 TestSmall_640dp                  |  64 x  64 |  16 x  16 |   4.0 |
+RedBlueNineSlice_160dp           |  64 x  64 |  64 x  64 |   1.0 | Simple basic nine slice image created for all dp's following standard scaling rules.
+RedBlueNineSlice_240dp           |  96 x  96 |  64 x  64 |   1.5 |
+RedBlueNineSlice_320dp           | 128 x 128 |  64 x  64 |   2.0 |
+RedBlueNineSlice_480dp           | 192 x 192 |  64 x  64 |   3.0 |
+RedBlueNineSlice_640dp           | 256 x 256 |  64 x  64 |   4.0 |
 
 
 ![alt text](./Test64x64_160dp.png "Test64x64_160dp")
@@ -52,4 +57,16 @@ TestSmall_640dp                  |  64 x  64 |  16 x  16 |   4.0 |
 ![alt text](./Test64x64_480dp.png "Test64x64_480dp")
 
 ![alt text](./Test64x64_640dp.png "Test64x64_640dp")
+
+
+
+![alt text](./RedBlueNineSlice_080dp.png "RedBlueNineSlice_080dp")
+
+![alt text](./RedBlueNineSlice_240dp.png "RedBlueNineSlice_240dp")
+
+![alt text](./RedBlueNineSlice_320dp.png "RedBlueNineSlice_320dp")
+
+![alt text](./RedBlueNineSlice_480dp.png "RedBlueNineSlice_480dp")
+
+![alt text](./RedBlueNineSlice_640dp.png "RedBlueNineSlice_640dp")
 
