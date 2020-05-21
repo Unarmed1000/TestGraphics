@@ -60,7 +60,7 @@ RedBlueNineSlice_640dpi           | 256 x 256 |  64 x  64 |   4.0 |
 
 
 
-![alt text](./RedBlueNineSlice_080dpi.png "RedBlueNineSlice_080dpi")
+![alt text](./RedBlueNineSlice_80dpi.png "RedBlueNineSlice_80dpi")
 
 ![alt text](./RedBlueNineSlice_240dpi.png "RedBlueNineSlice_240dpi")
 
